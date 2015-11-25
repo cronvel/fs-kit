@@ -1,13 +1,13 @@
 {
   "name": "fs-kit",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A Filesystem toolbox.",
   "main": "lib/fs.js",
   "directories": {
     "test": "test"
   },
   "dependencies": {
-    "rimraf": "^2.4.3"
+    "rimraf": "^2.4.4"
   },
   "devDependencies": {
     "expect.js": "^0.3.1",
