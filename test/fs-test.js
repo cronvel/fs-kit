@@ -29,7 +29,7 @@
 
 
 var fskit = require( '../lib/fs.js' ) ;
-var expect = require( 'expect.js' ) ;
+//var expect = require( 'expect.js' ) ;
 
 
 
