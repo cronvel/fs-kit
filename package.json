@@ -1,8 +1,11 @@
 {
   "name": "fs-kit",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "description": "A Filesystem toolbox.",
   "main": "lib/fs.js",
+  "engines": {
+    "node": ">=4.5.0"
+  },
   "directories": {
     "test": "test"
   },
@@ -25,5 +28,13 @@
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/cronvel/fs-kit/issues"
+  },
+  "copyright": {
+    "title": "File System Kit",
+    "years": [
+      2015,
+      2017
+    ],
+    "owner": "Cédric Ronvel"
   }
 }
