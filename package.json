@@ -1,6 +1,6 @@
 {
   "name": "fs-kit",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "A Filesystem toolbox.",
   "main": "lib/fs.js",
   "engines": {
@@ -12,7 +12,7 @@
   "dependencies": {
     "ncp": "^2.0.0",
     "rimraf": "^2.6.1",
-    "touch": "^1.0.0"
+    "touch": "^3.1.0"
   },
   "devDependencies": {},
   "scripts": {
