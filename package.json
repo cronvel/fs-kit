@@ -1,6 +1,6 @@
 {
   "name": "fs-kit",
-  "version": "0.3.2",
+  "version": "0.4.0",
   "description": "A Filesystem toolbox.",
   "main": "lib/fs.js",
   "engines": {
@@ -17,7 +17,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "mocha -R dot"
+    "test": "tea-time -R dot"
   },
   "repository": {
     "type": "git",
