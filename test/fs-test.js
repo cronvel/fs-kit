@@ -24,12 +24,10 @@
 	SOFTWARE.
 */
 
-/* jshint unused:false */
 /* global describe, it, before, after */
 
 
-var fskit = require( '../lib/fs.js' ) ;
-//var expect = require( 'expect.js' ) ;
+const fskit = require( '..' ) ;
 
 
 
@@ -39,9 +37,9 @@ var fskit = require( '../lib/fs.js' ) ;
 
 
 
-describe( "..." , function() {
+describe( "..." , () => {
 	
-	it( "..." , function() {
+	it( "..." , () => {
 	} ) ;
 	
 } ) ;
