@@ -27,13 +27,7 @@
 /* global describe, it, before, after */
 
 
-const fskit = require( '..' ) ;
-
-
-
-
-
-			/* Tests */
+const fsKit = require( '..' ) ;
 
 
 
